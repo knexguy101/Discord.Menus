@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\bin\Release\netcoreapp2.1\Discord.Menus.deps.json
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\bin\Release\netcoreapp2.1\Discord.Menus.dll
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\obj\Release\netcoreapp2.1\Discord.Menus.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\obj\Release\netcoreapp2.1\Discord.Menus.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\obj\Release\netcoreapp2.1\Discord.Menus.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\obj\Release\netcoreapp2.1\Discord.Menus.AssemblyInfo.cs
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\bin\Release\netcoreapp2.1\Discord.Menus.pdb
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\obj\Release\netcoreapp2.1\Discord.Menus.dll
+C:\Users\chris\source\repos\Discord.Menus\Discord.Menus\obj\Release\netcoreapp2.1\Discord.Menus.pdb
